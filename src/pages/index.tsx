@@ -5,7 +5,7 @@ type Props = {
   title: string
 }
 
-const blabla = 'var'
+const bla = 'var'
 
 export default function Home({ title = 'React Avançado' }: Props) {
   return (
